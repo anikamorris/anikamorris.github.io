@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Hello 👋🏼👩🏽‍💻
 
-You can use the [editor on GitHub](https://github.com/anikamorris/anikamorris.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Anika! I'm a software engineer who is passionate about using iOS development to elevate people, build community, and improve lives. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anikamorris/anikamorris.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Find me around the web 🌎:
+#### Catch my updates on <a href="https://www.linkedin.com/in/anikamorris/">LinkedIn</a> 💼
+#### Check out some of my favorite projects!
+- <a href="https://github.com/anikamorris/Diabestie">Diabestie</a>, an iOS app to help those with type 1 diabetes do their insulin calculations. 💉
+- <a href="https://github.com/anikamorris/spotify-clone">A Flat</a>, an iOS app to play music using the Spotify API. 🎶
+- <a href="https://github.com/anikamorris/hydra">Hydra</a>, a water intake tracker built with SwiftUI. 💧
